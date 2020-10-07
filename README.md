@@ -22,3 +22,11 @@ The code focus on percentage dF/F change of the dHPC stimu - NAc photometry expe
 
 #### PhotometryZScoreAnalysis_vGlut2_5June20
 The code focus on percentage Z-score change of the dHPC stimu - NAc photometry experiment. The dHPC is stimulated every 30s for a duration of 30ms per pulse for 30 minutes. This code requires the recording to be manually scored using OpenScope.
+
+
+#### PhotometryZScoreAnalysis_forScore_6Oct20
+The code focus on percentage Z-score change of the dHPC stimu - NAc photometry experiment. The dHPC is stimulated every 30s for a duration of 30ms per pulse for 30 minutes. This code requires the recording to be manually scored using OpenScope. This is the edited renamed version for clarity.
+
+
+#### PhotometryZScoreAnalysis_forPtAB_6Oct20
+The code focus on percentage Z-score change of the dHPC stimu - NAc photometry experiment. This code is used when analysing behavior marked when TDT is paired with Med Associate (automatically). 
